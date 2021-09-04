@@ -1,8 +1,8 @@
-[![Build Status](https://github.com/psampaz/go-mod-outdated/workflows/ci/badge.svg)](https://github.com/psampaz/go-mod-outdated/actions?query=workflow%3Aci)
-[![codecov](https://codecov.io/gh/psampaz/go-mod-outdated/branch/master/graph/badge.svg)](https://codecov.io/gh/psampaz/go-mod-outdated)
-[![Go Report Card](https://goreportcard.com/badge/github.com/psampaz/go-mod-outdated)](https://goreportcard.com/report/github.com/psampaz/go-mod-outdated)
-[![GoDoc](https://godoc.org/github.com/psampaz/go-mod-outdated?status.svg)](https://pkg.go.dev/github.com/psampaz/go-mod-outdated)
-[![Docker Pulls](https://img.shields.io/docker/pulls/psampaz/go-mod-outdated.svg?logo=docker)](https://hub.docker.com/r/psampaz/go-mod-outdated/)
+[![Build Status](https://github.com/crazy-max/go-mod-outdated/workflows/ci/badge.svg)](https://github.com/crazy-max/go-mod-outdated/actions?query=workflow%3Aci)
+[![codecov](https://codecov.io/gh/crazy-max/go-mod-outdated/branch/master/graph/badge.svg)](https://codecov.io/gh/crazy-max/go-mod-outdated)
+[![Go Report Card](https://goreportcard.com/badge/github.com/crazy-max/go-mod-outdated)](https://goreportcard.com/report/github.com/crazy-max/go-mod-outdated)
+[![GoDoc](https://godoc.org/github.com/crazy-max/go-mod-outdated?status.svg)](https://pkg.go.dev/github.com/crazy-max/go-mod-outdated)
+[![Docker Pulls](https://img.shields.io/docker/pulls/crazymax/go-mod-outdated.svg?logo=docker)](https://hub.docker.com/r/crazymax/go-mod-outdated/)
 
 # go-mod-outdated
 

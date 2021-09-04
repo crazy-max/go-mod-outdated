@@ -18,7 +18,7 @@ target "_common" {
 
 // Special target: https://github.com/docker/metadata-action#bake-definition
 target "docker-metadata-action" {
-  tags = ["psampaz/go-mod-outdated:local"]
+  tags = ["crazymax/go-mod-outdated:local"]
 }
 
 group "default" {

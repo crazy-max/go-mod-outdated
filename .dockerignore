@@ -1,7 +1,6 @@
 /.idea
 /*.iml
 
-/.github
 /dist
 /coverage.txt
 /go-mod-outdated
